@@ -1,2 +1,1 @@
-# sudo
-# sudo
+# cnn
